@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/processed/
+models/
+reports/
+data/raw/churn_20*.csv
